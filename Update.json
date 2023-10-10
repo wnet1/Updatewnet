@@ -1,1 +1,37 @@
-# Upkk
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.2",
+//link for server update
+"Url":"https://github.com/minmahar2580/products-1/raw/main/W-Net.zip" ,
+"Changelog":"
+ဖိုင်တင်ရက် 26/07/2023
+အသုံးပြုရတဲ့ဆင်းမ် DTAC-TRUE
+ TH-VIP-01
+ TH-VIP-02
+ TH-VIP-03
+ TH-VIP-04
+ TH-VIP-05
+ TH-VIP-06
+
+အပ်ဒိတ်လုပ်ပါ ကိုနှိပ်လိုက်ပါ
+အပ်ဒိတ်ပြီးမြောက်သည်အထိစောင့်ပေးပါ
+ 
+VIP 1လမှ 50ဘတ်တည်းပါ
+ပြဿနာတစ်ခုခုကိုသတင်းပို့ချင်တာ
+ကျနော်ရဲ့Cbသို့ဆက်သွယ်လာပါဗျ
+
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
